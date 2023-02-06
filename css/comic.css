@@ -2,11 +2,37 @@
     font-family: 'comic';
     font-weight: 100;
     font-style: normal;
-    src: url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/eot/Comic-Regular.eot');
-    src: url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/eot/Comic-Regular.eot'?#iefox) format('embedded-opentype'),
-	 url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/woff2/Comic-Regular.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/woff/Comic-Regular.woff') format('woff'),
-         url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/ttf/Comic-Regular.ttf') format('truetype'),
-	 url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/otf/Comic-Regular.otf') format('opentype')
-	 url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/svg/Comic-Regular.svg') format('svg');
+    src: url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/eot/Non-Ligatures/Comic-Regular.eot');
+    src: url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/eot/Non-Ligatures/Comic-Regular.eot'?#iefox) format('embedded-opentype'),
+	 url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/woff2/Non-Ligatures/Comic-Regular.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/woff/Non-Ligatures/Comic-Regular.woff') format('woff'),
+         url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/ttf/Non-Ligatures/Comic-Regular.ttf') format('truetype'),
+	 url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/otf/Non-Ligatures/Comic-Regular.otf') format('opentype'),
+	 url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/svg/Non-Ligatures/Comic-Regular.svg') format('svg');
+}
+
+@font-face {
+    font-family: 'comic';
+    font-weight: 200;
+    font-style: normal;
+    src: url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/eot/Non-Ligatures/Comic-Regular.eot');
+    src: url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/eot/Non-Ligatures/Comic-Regular.eot'?#iefox) format('embedded-opentype'),
+	 url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/woff2/Non-Ligatures/Comic-Regular.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/woff/Non-Ligatures/Comic-Regular.woff') format('woff'),
+         url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/ttf/Non-Ligatures/Comic-Regular.ttf') format('truetype'),
+	 url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/otf/Non-Ligatures/Comic-Regular.otf') format('opentype'),
+	 url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/svg/Non-Ligatures/Comic-Regular.svg') format('svg');
+}
+
+@font-face {
+    font-family: 'comic';
+    font-weight: 300;
+    font-style: normal;
+    src: url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/eot/Non-Ligatures/Comic-Regular.eot');
+    src: url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/eot/Non-Ligatures/Comic-Regular.eot'?#iefox) format('embedded-opentype'),
+	 url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/woff2/Non-Ligatures/Comic-Regular.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/woff/Non-Ligatures/Comic-Regular.woff') format('woff'),
+         url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/ttf/Non-Ligatures/Comic-Regular.ttf') format('truetype'),
+	 url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/otf/Non-Ligatures/Comic-Regular.otf') format('opentype'),
+	 url('https://cdn.rawgit.com/JustATechie/FontDatabase/main/Comic/svg/Non-Ligatures/Comic-Regular.svg') format('svg');
 }
