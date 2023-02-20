@@ -2,7 +2,7 @@
     font-family: 'Comic Code';
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Regular.eot'),
-	url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Regular.eot'?#iefox) format('embedded-opentype'),
+	 url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Regular.eot'?#iefox) format('embedded-opentype'),
 	 url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Regular.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Regular.woff') format('woff'),
          url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Regular.ttf') format('truetype'),
@@ -14,7 +14,7 @@
     font-family: 'Comic Code';
     font-style: italic;
     src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Italic.eot')
-	url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Italic.eot'?#iefox) format('embedded-opentype'),
+	 url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Italic.eot'?#iefox) format('embedded-opentype'),
 	 url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Italic.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Italic.woff') format('woff'),
          url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Italic.ttf') format('truetype'),
@@ -26,7 +26,7 @@
     font-family: 'Comic Code';
     font-style: bold;
     src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Bold.eot')
-	url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Bold.eot'?#iefox) format('embedded-opentype'),
+	 url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Bold.eot'?#iefox) format('embedded-opentype'),
 	 url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Bold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Bold.woff') format('woff'),
          url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/otf/Non-Ligatures/Comic-Bold.ttf') format('truetype'),
