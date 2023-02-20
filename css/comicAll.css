@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Comic Programming';
+    font-family: 'Comic Programming - Regular';
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/eot/Non-Ligatures/Comic-Regular.eot'),
 	 url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/eot/Non-Ligatures/Comic-Regular.eot'?#iefox) format('embedded-opentype'),
@@ -11,7 +11,7 @@
 }
 
 @font-face {
-    font-family: 'Comic Programming';
+    font-family: 'Comic Programming - Italic';
     font-style: italic;
     src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/eot/Non-Ligatures/Comic-Italic.eot')
 	 url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/eot/Non-Ligatures/Comic-Italic.eot'?#iefox) format('embedded-opentype'),
@@ -23,7 +23,7 @@
 }
 
 @font-face {
-    font-family: 'Comic Programming';
+    font-family: 'Comic Programming - Bold';
     font-style: bold;
     src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/eot/Non-Ligatures/Comic-Bold.eot')
 	 url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/eot/Non-Ligatures/Comic-Bold.eot'?#iefox) format('embedded-opentype'),
