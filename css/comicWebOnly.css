@@ -1,23 +1,20 @@
 @font-face {
     font-family: 'Comic Programming';
-    font-style: normal;
-	font-weight: regular;
+    font-style: Regular;
     src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/woff2/Non-Ligatures/Comic-Regular.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/woff/Non-Ligatures/Comic-Regular.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Comic Programming';
-    font-style: italic;
-	font-weight: regular;
+    font-style: Italic;
     src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/woff2/Non-Ligatures/Comic-Italic.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/woff/Non-Ligatures/Comic-Italic.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Comic Programming';
-    font-style: bold;
-	font-weight: regular;
+    font-style: Bold;
     src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/woff2/Non-Ligatures/Comic-Bold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/comic/woff/Non-Ligatures/Comic-Bold.woff') format('woff');
 }
