@@ -3,19 +3,19 @@
 @font-face {
     font-family: 'Comic Programming - Regular';
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/Non-Ligatures/Comic-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-Regular.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Comic Programming - Italic';
     font-style: italic;
-    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/Non-Ligatures/Comic-Italic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-Italic.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Comic Programming - Bold';
     font-style: bold;
-    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/Non-Ligatures/Comic-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-Bold.woff2') format('woff2');
 }
 
 :root {
