@@ -2,8 +2,13 @@
 @import url('https://cdn.jsdelivr.net/gh/dracula/logseq@master/custom.css');
 
 @font-face {
-    font-family: 'Comic Programming - Regular';
-    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-Regular.woff2') format('woff2');
+    font-family: 'Comic Programming - Bold';
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Comic Programming - Bold Italic';
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-BoldItalic.woff2') format('woff2');
 }
 
 @font-face {
@@ -12,8 +17,58 @@
 }
 
 @font-face {
-    font-family: 'Comic Programming - Bold';
-    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-Bold.woff2') format('woff2');
+    font-family: 'Comic Programming - Light';
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Comic Programming - Light Italic';
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-LightItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Comic Programming - Medium';
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Comic Programming - Medium Italic';
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-MediumItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Comic Programming - Regular';
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Comic Programming - Semibold';
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-Semibold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Comic Programming - Semibold Italic';
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-SemiboldItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Comic Programming - Thin';
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Comic Programming - Thin Italic';
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-ThinItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Comic Programming - Ultra Light';
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-UltraLight.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Comic Programming - Ultra Light Italic';
+    src: url('https://cdn.jsdelivr.net/gh/JustATechie/FontDatabase@main/fonts/comic/woff2/non-ligatures/Comic-UltraLightItalic.woff2') format('woff2');
 }
 
 :root {
